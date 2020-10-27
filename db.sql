@@ -5,7 +5,8 @@
 /*!40101 SET NAMES utf8 */;
 
 #
-# Structure for table "article"
+# Structure for table "article"   
+#
 #
 
 DROP TABLE IF EXISTS `article`;
